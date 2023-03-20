@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="false" name="Suite">
+  <test name="Test">
+    <classes>
+      <class name="com.employeeApi_TestCase.T001_GET_AllEmployee"/>
+       <class name="com.employeeApi_TestCase.T002_Get_Sigle_Employee_Record"/>
+       <class name="com.employeeApi_TestCase.T003_Post_CresteNewRecordInDatabase"/>
+       <class name="com.employeeApi_TestCase.T004_Put_Request_For_Update"/>
+       <class name="com.employeeApi_TestCase.T005_DataDrivenTest_hardCodedData"/>
+        
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
